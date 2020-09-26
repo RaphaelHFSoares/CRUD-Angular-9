@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "caneta azul 2",
+      "price": "1.46"
+    },
+    {
+      "name": "veio do form 2",
+      "price": "477",
+      "id": "2"
+    },
+    {
+      "name": "caneta azul 3",
+      "price": "477",
+      "id": "3"
+    },
+    {
+      "name": "veio do form 2",
+      "price": "456",
+      "id": "4"
+    },
+    {
+      "name": "Lapis branco",
+      "price": "322.9",
+      "id": "IpZde7Z"
+    }
+  ]
+}
